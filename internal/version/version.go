@@ -20,6 +20,16 @@ var devTimestamp = strconv.FormatInt(time.Now().Unix(), 10) // build timestamp f
 var version = devVersion
 
 func init() {
+	versionFromFile, err := os.ReadFile("/version.txt")
+	if err == nil {
+		version = string(versionFromFile)
+	}
+
+	timestampFromFile, err := os.ReadFile("/timestamp.txt")
+	if err == nil {
+		timestamp = string(timestampFromFile)
+	}
+
 	exportedVersion := expvar.NewString("sourcegraph.version")
 	exportedVersion.Set(version)
 }
