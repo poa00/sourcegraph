@@ -226,7 +226,11 @@ go_library(
         "content_library.graphql",
         "search_jobs.graphql",
         "telemetry.graphql",
+<<<<<<< HEAD
         "viewer.graphql",
+=======
+        "saved_searches.graphql",
+>>>>>>> 1920c5aaec8 (various improvements to saved searches)
     ],
     importpath = "github.com/sourcegraph/sourcegraph/cmd/frontend/graphqlbackend",
     visibility = ["//:__subpackages__"],
@@ -440,7 +444,6 @@ go_test(
         "repository_text_search_index_test.go",
         "role_test.go",
         "roles_test.go",
-        "saved_searches_test.go",
         "search_results_stats_languages_test.go",
         "search_results_test.go",
         "search_test.go",
