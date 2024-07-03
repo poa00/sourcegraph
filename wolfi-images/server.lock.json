@@ -968,22 +968,22 @@
       },
       {
         "architecture": "x86_64",
-        "checksum": "Q1KXXN9Hu7PZ0iPK7gAnYRUDcDzZs=",
+        "checksum": "Q1VJwVzi86yWcTj5PHY01vdoetpZQ=",
         "control": {
-          "checksum": "sha1-KXXN9Hu7PZ0iPK7gAnYRUDcDzZs=",
-          "range": "bytes=700-1063"
+          "checksum": "sha1-VJwVzi86yWcTj5PHY01vdoetpZQ=",
+          "range": "bytes=710-1058"
         },
         "data": {
-          "checksum": "sha256-F61XBj+QV78wXrinzeVQestiQeJtCAVPWwbLWf8c98Y=",
-          "range": "bytes=1064-12733161"
+          "checksum": "sha256-kBMNCuqgebDS1M9EjrUO3wqJ2laPKu/oE0YI/4szp4M=",
+          "range": "bytes=1059-12733185"
         },
         "name": "git-lfs",
         "signature": {
-          "checksum": "sha1-U6NrIIwbHHzX/fgtB3PoNVQZOJU=",
-          "range": "bytes=0-699"
+          "checksum": "sha1-RgfxUCV6GAC4fDsAvBAZ6AWoGFM=",
+          "range": "bytes=0-709"
         },
-        "url": "https://packages.wolfi.dev/os/x86_64/git-lfs-3.5.1-r6.apk",
-        "version": "3.5.1-r6"
+        "url": "https://packages.wolfi.dev/os/x86_64/git-lfs-3.5.1-r7.apk",
+        "version": "3.5.1-r7"
       },
       {
         "architecture": "x86_64",
@@ -1253,41 +1253,41 @@
       },
       {
         "architecture": "x86_64",
-        "checksum": "Q159N4eiyaOIItDmaNcUwCEzopOQ0=",
+        "checksum": "Q1eyGrG2KPp3shPm7lFdGiDrInUfU=",
         "control": {
-          "checksum": "sha1-59N4eiyaOIItDmaNcUwCEzopOQ0=",
-          "range": "bytes=697-1137"
+          "checksum": "sha1-eyGrG2KPp3shPm7lFdGiDrInUfU=",
+          "range": "bytes=704-1130"
         },
         "data": {
-          "checksum": "sha256-YAYeT4S1TlekdgUVFi3Bqt8NUj3sBV1IIKCFkSzDQEM=",
-          "range": "bytes=1138-2550161"
+          "checksum": "sha256-PP8Frb0VtaWHHvBYBDhaxeB6AVlaR1x/RfpapE5sTSQ=",
+          "range": "bytes=1131-2571500"
         },
         "name": "p11-kit",
         "signature": {
-          "checksum": "sha1-u73VVE8Z2YCPfvy/7dGl9L5WE58=",
-          "range": "bytes=0-696"
+          "checksum": "sha1-g3YWbdWwaBsPhB39b/XH1t2NT08=",
+          "range": "bytes=0-703"
         },
-        "url": "https://packages.wolfi.dev/os/x86_64/p11-kit-0.25.3-r3.apk",
-        "version": "0.25.3-r3"
+        "url": "https://packages.wolfi.dev/os/x86_64/p11-kit-0.25.4-r0.apk",
+        "version": "0.25.4-r0"
       },
       {
         "architecture": "x86_64",
-        "checksum": "Q1u0Mde9gv6i/Mh7HcW3LtIyfIz2g=",
+        "checksum": "Q1XDyLBCa9SavCJvS0leR0iR7/n+c=",
         "control": {
-          "checksum": "sha1-u0Mde9gv6i/Mh7HcW3LtIyfIz2g=",
-          "range": "bytes=705-1125"
+          "checksum": "sha1-XDyLBCa9SavCJvS0leR0iR7/n+c=",
+          "range": "bytes=700-1102"
         },
         "data": {
-          "checksum": "sha256-cH7wwh2J0IPekB/ODuWjSHpU3pyarrG/XhTdTd3GZ2U=",
-          "range": "bytes=1126-575277"
+          "checksum": "sha256-nAAJctzYyGHmfMk+fs50cnEnpSdMdiFyobAWCOnzErM=",
+          "range": "bytes=1103-575264"
         },
         "name": "p11-kit-trust",
         "signature": {
-          "checksum": "sha1-BkatHr3xbv9kp95kv5bigMa8HrA=",
-          "range": "bytes=0-704"
+          "checksum": "sha1-9yE6W4DMkWe6OHoZTkExcJAEKJA=",
+          "range": "bytes=0-699"
         },
-        "url": "https://packages.wolfi.dev/os/x86_64/p11-kit-trust-0.25.3-r3.apk",
-        "version": "0.25.3-r3"
+        "url": "https://packages.wolfi.dev/os/x86_64/p11-kit-trust-0.25.4-r0.apk",
+        "version": "0.25.4-r0"
       },
       {
         "architecture": "x86_64",
@@ -1614,22 +1614,22 @@
       },
       {
         "architecture": "x86_64",
-        "checksum": "Q1ZSA3uYHgOuEdsXqsjTZQOc7JGFM=",
+        "checksum": "Q1EoboUze7gNAngM1gmLzM1nPdaZQ=",
         "control": {
-          "checksum": "sha1-ZSA3uYHgOuEdsXqsjTZQOc7JGFM=",
-          "range": "bytes=697-1083"
+          "checksum": "sha1-EoboUze7gNAngM1gmLzM1nPdaZQ=",
+          "range": "bytes=702-1076"
         },
         "data": {
-          "checksum": "sha256-U6V84QUUZHttnP8E4tXIiGqLDrqo6l+b3pSK4J2U5oI=",
-          "range": "bytes=1084-13097660"
+          "checksum": "sha256-UgsCGyX15jOfLeHg74FRjndH8cYn03mDcRCkK73o3xA=",
+          "range": "bytes=1077-13097807"
         },
         "name": "prometheus-postgres-exporter",
         "signature": {
-          "checksum": "sha1-tYMJlKBEQpyVJBRdhmv1c/+AQfQ=",
-          "range": "bytes=0-696"
+          "checksum": "sha1-sYyoMsyNe/5Ovl0/lVnAwIQbx0w=",
+          "range": "bytes=0-701"
         },
-        "url": "https://packages.wolfi.dev/os/x86_64/prometheus-postgres-exporter-0.15.0-r10.apk",
-        "version": "0.15.0-r10"
+        "url": "https://packages.wolfi.dev/os/x86_64/prometheus-postgres-exporter-0.15.0-r11.apk",
+        "version": "0.15.0-r11"
       },
       {
         "architecture": "x86_64",

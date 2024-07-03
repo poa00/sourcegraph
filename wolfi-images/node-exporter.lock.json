@@ -717,22 +717,22 @@
       },
       {
         "architecture": "x86_64",
-        "checksum": "Q11MjyY75dy19jhUUc+pJ77bBmkiA=",
+        "checksum": "Q1/ttsPaLiaYQzm24eiYfuvGCA0qI=",
         "control": {
-          "checksum": "sha1-1MjyY75dy19jhUUc+pJ77bBmkiA=",
-          "range": "bytes=704-1086"
+          "checksum": "sha1-/ttsPaLiaYQzm24eiYfuvGCA0qI=",
+          "range": "bytes=707-1074"
         },
         "data": {
-          "checksum": "sha256-VzE/ZAEOrO6lBW21IJ6Kx4BCAaWIjuygSPZCYGwGKuk=",
-          "range": "bytes=1087-15542357"
+          "checksum": "sha256-Ezr5AYHlo085vIUfTKqHRYaKeqIycfbyhkhHDn8OsYA=",
+          "range": "bytes=1075-15542512"
         },
         "name": "prometheus-node-exporter",
         "signature": {
-          "checksum": "sha1-m6+CIL3VlmtVXNtxUmEDLVgOC9o=",
-          "range": "bytes=0-703"
+          "checksum": "sha1-hX2jHqoXcie63DKqIo2ZnJNZq9E=",
+          "range": "bytes=0-706"
         },
-        "url": "https://packages.wolfi.dev/os/x86_64/prometheus-node-exporter-1.8.1-r1.apk",
-        "version": "1.8.1-r1"
+        "url": "https://packages.wolfi.dev/os/x86_64/prometheus-node-exporter-1.8.1-r2.apk",
+        "version": "1.8.1-r2"
       },
       {
         "architecture": "x86_64",

@@ -717,22 +717,22 @@
       },
       {
         "architecture": "x86_64",
-        "checksum": "Q1ZSA3uYHgOuEdsXqsjTZQOc7JGFM=",
+        "checksum": "Q1EoboUze7gNAngM1gmLzM1nPdaZQ=",
         "control": {
-          "checksum": "sha1-ZSA3uYHgOuEdsXqsjTZQOc7JGFM=",
-          "range": "bytes=697-1083"
+          "checksum": "sha1-EoboUze7gNAngM1gmLzM1nPdaZQ=",
+          "range": "bytes=702-1076"
         },
         "data": {
-          "checksum": "sha256-U6V84QUUZHttnP8E4tXIiGqLDrqo6l+b3pSK4J2U5oI=",
-          "range": "bytes=1084-13097660"
+          "checksum": "sha256-UgsCGyX15jOfLeHg74FRjndH8cYn03mDcRCkK73o3xA=",
+          "range": "bytes=1077-13097807"
         },
         "name": "prometheus-postgres-exporter",
         "signature": {
-          "checksum": "sha1-tYMJlKBEQpyVJBRdhmv1c/+AQfQ=",
-          "range": "bytes=0-696"
+          "checksum": "sha1-sYyoMsyNe/5Ovl0/lVnAwIQbx0w=",
+          "range": "bytes=0-701"
         },
-        "url": "https://packages.wolfi.dev/os/x86_64/prometheus-postgres-exporter-0.15.0-r10.apk",
-        "version": "0.15.0-r10"
+        "url": "https://packages.wolfi.dev/os/x86_64/prometheus-postgres-exporter-0.15.0-r11.apk",
+        "version": "0.15.0-r11"
       },
       {
         "architecture": "x86_64",

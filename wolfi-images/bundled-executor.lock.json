@@ -983,41 +983,41 @@
       },
       {
         "architecture": "x86_64",
-        "checksum": "Q159N4eiyaOIItDmaNcUwCEzopOQ0=",
+        "checksum": "Q1eyGrG2KPp3shPm7lFdGiDrInUfU=",
         "control": {
-          "checksum": "sha1-59N4eiyaOIItDmaNcUwCEzopOQ0=",
-          "range": "bytes=697-1137"
+          "checksum": "sha1-eyGrG2KPp3shPm7lFdGiDrInUfU=",
+          "range": "bytes=704-1130"
         },
         "data": {
-          "checksum": "sha256-YAYeT4S1TlekdgUVFi3Bqt8NUj3sBV1IIKCFkSzDQEM=",
-          "range": "bytes=1138-2550161"
+          "checksum": "sha256-PP8Frb0VtaWHHvBYBDhaxeB6AVlaR1x/RfpapE5sTSQ=",
+          "range": "bytes=1131-2571500"
         },
         "name": "p11-kit",
         "signature": {
-          "checksum": "sha1-u73VVE8Z2YCPfvy/7dGl9L5WE58=",
-          "range": "bytes=0-696"
+          "checksum": "sha1-g3YWbdWwaBsPhB39b/XH1t2NT08=",
+          "range": "bytes=0-703"
         },
-        "url": "https://packages.wolfi.dev/os/x86_64/p11-kit-0.25.3-r3.apk",
-        "version": "0.25.3-r3"
+        "url": "https://packages.wolfi.dev/os/x86_64/p11-kit-0.25.4-r0.apk",
+        "version": "0.25.4-r0"
       },
       {
         "architecture": "x86_64",
-        "checksum": "Q1u0Mde9gv6i/Mh7HcW3LtIyfIz2g=",
+        "checksum": "Q1XDyLBCa9SavCJvS0leR0iR7/n+c=",
         "control": {
-          "checksum": "sha1-u0Mde9gv6i/Mh7HcW3LtIyfIz2g=",
-          "range": "bytes=705-1125"
+          "checksum": "sha1-XDyLBCa9SavCJvS0leR0iR7/n+c=",
+          "range": "bytes=700-1102"
         },
         "data": {
-          "checksum": "sha256-cH7wwh2J0IPekB/ODuWjSHpU3pyarrG/XhTdTd3GZ2U=",
-          "range": "bytes=1126-575277"
+          "checksum": "sha256-nAAJctzYyGHmfMk+fs50cnEnpSdMdiFyobAWCOnzErM=",
+          "range": "bytes=1103-575264"
         },
         "name": "p11-kit-trust",
         "signature": {
-          "checksum": "sha1-BkatHr3xbv9kp95kv5bigMa8HrA=",
-          "range": "bytes=0-704"
+          "checksum": "sha1-9yE6W4DMkWe6OHoZTkExcJAEKJA=",
+          "range": "bytes=0-699"
         },
-        "url": "https://packages.wolfi.dev/os/x86_64/p11-kit-trust-0.25.3-r3.apk",
-        "version": "0.25.3-r3"
+        "url": "https://packages.wolfi.dev/os/x86_64/p11-kit-trust-0.25.4-r0.apk",
+        "version": "0.25.4-r0"
       },
       {
         "architecture": "x86_64",
@@ -1439,22 +1439,22 @@
       },
       {
         "architecture": "x86_64",
-        "checksum": "Q1POMkB+OGZU68Oyy1bPHttaBWrKQ=",
+        "checksum": "Q1OE9Tcv5FRM2R59X1GeBqhBSjO2c=",
         "control": {
-          "checksum": "sha1-POMkB+OGZU68Oyy1bPHttaBWrKQ=",
-          "range": "bytes=702-1082"
+          "checksum": "sha1-OE9Tcv5FRM2R59X1GeBqhBSjO2c=",
+          "range": "bytes=701-1083"
         },
         "data": {
-          "checksum": "sha256-2wD/1bLmSgMNDa3dm9wx0831vCi3zcZYCDxIHeoKHAo=",
-          "range": "bytes=1083-10722853"
+          "checksum": "sha256-G20U3AWP68ABai8Co/Yw7FURY39/cGwhZlAe2G0C1cM=",
+          "range": "bytes=1084-10723002"
         },
         "name": "yq",
         "signature": {
-          "checksum": "sha1-Db9wFCBDYnYkT73rwdOa8SiS+pw=",
-          "range": "bytes=0-701"
+          "checksum": "sha1-pLMmu1lquvuF098yf/9+Vbk33YU=",
+          "range": "bytes=0-700"
         },
-        "url": "https://packages.wolfi.dev/os/x86_64/yq-4.44.2-r0.apk",
-        "version": "4.44.2-r0"
+        "url": "https://packages.wolfi.dev/os/x86_64/yq-4.44.2-r1.apk",
+        "version": "4.44.2-r1"
       }
     ],
     "repositories": [

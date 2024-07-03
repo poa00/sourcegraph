@@ -850,22 +850,22 @@
       },
       {
         "architecture": "x86_64",
-        "checksum": "Q1KXXN9Hu7PZ0iPK7gAnYRUDcDzZs=",
+        "checksum": "Q1VJwVzi86yWcTj5PHY01vdoetpZQ=",
         "control": {
-          "checksum": "sha1-KXXN9Hu7PZ0iPK7gAnYRUDcDzZs=",
-          "range": "bytes=700-1063"
+          "checksum": "sha1-VJwVzi86yWcTj5PHY01vdoetpZQ=",
+          "range": "bytes=710-1058"
         },
         "data": {
-          "checksum": "sha256-F61XBj+QV78wXrinzeVQestiQeJtCAVPWwbLWf8c98Y=",
-          "range": "bytes=1064-12733161"
+          "checksum": "sha256-kBMNCuqgebDS1M9EjrUO3wqJ2laPKu/oE0YI/4szp4M=",
+          "range": "bytes=1059-12733185"
         },
         "name": "git-lfs",
         "signature": {
-          "checksum": "sha1-U6NrIIwbHHzX/fgtB3PoNVQZOJU=",
-          "range": "bytes=0-699"
+          "checksum": "sha1-RgfxUCV6GAC4fDsAvBAZ6AWoGFM=",
+          "range": "bytes=0-709"
         },
-        "url": "https://packages.wolfi.dev/os/x86_64/git-lfs-3.5.1-r6.apk",
-        "version": "3.5.1-r6"
+        "url": "https://packages.wolfi.dev/os/x86_64/git-lfs-3.5.1-r7.apk",
+        "version": "3.5.1-r7"
       },
       {
         "architecture": "x86_64",
